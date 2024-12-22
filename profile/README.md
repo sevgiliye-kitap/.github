@@ -1,12 +1,8 @@
-## Hi there 👋
 
-<!--
+<center><a href="https://sevgiliyedair.com"><img src="https://sevgiliyekitap.github.io/Untitled-3.jpg"/></a></center>
+<p><b> Sevgiliye kitap</b>; Sitemizdeki Sipariş formunda size sormuş olduğumuz sorularla, kendi bünyemizde bulunan yazılar birleştirilerek 100 sayfalık bir kitap oluşturulmaktadır. </p>
+<p>Yazılar tamamen siz yazmıssınız gibi karşı tarafa hitaben yazılmaktadır. Hiç bir şekilde anlam kopukluğu olmamaktadır.</p> 
+<p>Sipariş formunda yükleyeceğiniz 3 Adet fotoğraftan 1 adeti ön kapak, 1 adeti arka kapak ve diğer 1 tanesi tüm sayfalarda yazıların altında görünecek şekilde kullanılmaktadır. Kitap kapağı sadece size özel tasarlanmaktadır. Kitabın Adını, arka kapak metnini yine siz belirtmektesiniz. Kitapta yazar olarak sizin adınız yazmaktadır. Kitaptarn Firmamıza ait herhangi logo yazı telefon numarası bulunmamaktadır.</p> 
 
-**Here are some ideas to get you started:**
+<p>Önemli not: Siparişler sadece sitemiz üzerinden alınmaktadır. www.sevgiliyedair.com Bunun dışında sipariş kabul edilmemektedir. Anlayışınız için teşekkürler. .Sevgiliye kitap; Sitemizdeki Sipariş formunda size sormuş olduğumuz sorularla, kendi bünyemizde bulunan yazılar birleştirilerek 100 sayfalık bir kitap oluşturulmaktadır. Yazılar tamamen siz yazmıssınız gibi karşı tarafa hitaben yazılmaktadır. Hiç bir şekilde anlam kopukluğu olmamaktadır. Sipariş formunda yükleyeceğiniz 3 Adet fotoğraftan 1 adeti ön kapak, 1 adeti arka kapak ve diğer 1 tanesi tüm sayfalarda yazıların altında görünecek şekilde kullanılmaktadır. Kitap kapağı sadece size özel tasarlanmaktadır. Kitabın Adını, arka kapak metnini yine siz belirtmektesiniz. Kitapta yazar olarak sizin adınız yazmaktadır. Kitaptarn Firmamıza ait herhangi logo yazı telefon numarası bulunmamaktadır. Önemli not: Siparişler sadece sitemiz üzerinden alınmaktadır. www.sevgiliyedair.com Bunun dışında sipariş kabul edilmemektedir. Anlayışınız için teşekkürler...</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
